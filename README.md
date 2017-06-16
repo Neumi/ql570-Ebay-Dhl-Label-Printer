@@ -1,4 +1,4 @@
-""ql570-Ebay-Dhl-Label-Printer shell command""
+ql570-Ebay-Dhl-Label-Printer shell command
 ---------
 
 This small shell script is made to print Ebay DHL Labels from the shell using a 
