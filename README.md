@@ -18,6 +18,7 @@ provided example.png
 3. Install my script in the same directory as the ql570 makefile and shellscript 
 is.
 
+----
 4. Print a lable using <code>./processPDF.sh DEPOST_example.pdf</code>
 
 
