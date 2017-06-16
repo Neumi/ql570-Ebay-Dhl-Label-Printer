@@ -1,8 +1,8 @@
 ql570-Ebay-Dhl-Label-Printer shell command
 ---------
 
-This small shell script is made to print Ebay DHL Labels from the shell using a 
-connected Brother ql570 labelprinter.
+This small shell script is made to print Ebay DHL Labels from shell using a 
+USB connected Brother ql570 labelprinter.
 
 ----
 1. First install the ql570 shell command from the awesome guys at sudomesh:<code>
@@ -18,6 +18,10 @@ is.
 
 ----
 4. Print a lable using <code>./processPDF.sh DEPOST_example.pdf</code>
+
+
+
+
 
 
 
