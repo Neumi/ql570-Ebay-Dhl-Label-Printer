@@ -7,6 +7,7 @@ USB connected Brother ql570 labelprinter.
 ----
 1. First install the ql570 shell command from the awesome guys at sudomesh:<code>
 https://github.com/sudomesh/ql570 </code>
+1.1 Install imagemagick: <code>sudo apt-get install imagemagick</code>
 
 ----
 2. Test if the script is connecting to the printer and print the 
